@@ -1,0 +1,17 @@
+.caption {
+  text-align: center;
+  font-size: 170%;
+}
+
+.slight-indent{
+  margin-left:4%;
+}
+
+.slight-right-indent{
+  margin-right:2%;
+}
+
+#wrapper {
+  background-image: url("http://windows10wall.com/wp-content/uploads/2013/12/awesome_paris_black_n_white_view_background_wallpaper.jpg");
+  background-color: lightblue;
+}
