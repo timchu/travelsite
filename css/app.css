@@ -1,6 +1,15 @@
+* {
+  font-family: "Times New Roman", sans-serif;
+}
+
 .caption {
   text-align: center;
   font-size: 170%;
+}
+
+.big {
+  font-size: 350%;
+  font-weight: 500;
 }
 
 .slight-indent{
