@@ -2,6 +2,10 @@
   font-family: "Times New Roman", sans-serif;
 }
 
+.grey {
+  background-color: #E2E3E5;
+}
+
 .caption {
   text-align: center;
   font-size: 170%;
@@ -22,5 +26,4 @@
 
 #wrapper {
   background-image: url("http://windows10wall.com/wp-content/uploads/2013/12/awesome_paris_black_n_white_view_background_wallpaper.jpg");
-  background-color: lightblue;
 }
